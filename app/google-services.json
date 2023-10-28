@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "492348436558",
+    "firebase_url": "https://pdf-viewer-41ebd-default-rtdb.firebaseio.com",
+    "project_id": "pdf-viewer-41ebd",
+    "storage_bucket": "pdf-viewer-41ebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492348436558:android:23b68e4054f214d947931f",
+        "android_client_info": {
+          "package_name": "com.basit.pdfadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLC1vd1YI_-IuXTbgFr7WB5KkBjSLW4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492348436558:android:bfd62498a5598a8247931f",
+        "android_client_info": {
+          "package_name": "com.basit.pdfviewer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnLC1vd1YI_-IuXTbgFr7WB5KkBjSLW4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
